@@ -1,0 +1,17 @@
+h2
+{
+   color: #251B09;
+   font-family: verdana;
+}
+
+.btn
+{
+  background-color: : #C70039;
+  border: none;
+  padding: 10px;
+  color: #C70039;
+}
+.btn:hover
+{
+  background-color: #00C724;
+}
